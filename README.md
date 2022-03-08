@@ -15,11 +15,12 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=thakurballary&style=for-the-badge&color=blue" alt=""/>
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> hi
   </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=🙏+Namaste;I+am+Thakur+Ballary;Software+Engineer;Welcome+to+My+Profile" />
 </div>
 
-#### 👨‍💻 About Me:
+<h2> 👨‍💻 Know Me </h2>
 
 - 🔭 I’m currently working on Mobile and Web Applications
 - 🌱 Learning Data Structures and Algorithms
@@ -27,9 +28,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fav. Quote: Create your own reality ✨
 
-#### 🛠️ Languages and Tools:
+<br/>
 
-<div>
+<h2> 🛠️ Languages and Tools </h2>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -41,19 +43,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/><br/><br/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
 </div>
 
-<br><br>
+<h2> 🔥 Stats </h2>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=thakurballary&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurballary&layout=compact&theme=vision-friendly-dark" />
+</div>
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
+<h2> 😆 Fun </h2>
+<br/>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23111&textColor=%23fff&aColor=%23ccc&borderColor=%23ccc" />
+</div>
 
-#### 🔥 My Stats:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Thank+You!!;Have+a+wonderful+day" /><br/><br/><br/>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thakurballary&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakurballary&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-#### 😆 Fun:
-
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23111&textColor=%23fff&aColor=%23ccc&borderColor=%23ccc)
+<div align="center">
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" /> with <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" /> by Thakur Ballary
+</div>
